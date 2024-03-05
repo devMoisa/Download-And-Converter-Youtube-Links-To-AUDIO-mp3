@@ -14,7 +14,7 @@ Before you begin, ensure you have the following installed on your system:
 1. Clone this repository to your local machine. If you have Git installed, you can run the following command:
 
 ```git
-git clone https://github.com/devMoisa/Download-And-Converter-Youtube-Links-To-AUDIO-mp3
+git clone git@github.com:devMoisa/Download-And-Converter-Youtube-Links-To-AUDIO-mp3.git
 ```
 
 If you don't have a Git setup, you can download the ZIP file of the project and extract it.
